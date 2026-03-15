@@ -195,6 +195,11 @@ pytest
 
 이러한 오류를 통해 validation 기능을 확인할 수 있습니다.
 
+샘플 이미지 생성 방법은 아래 문서를 참고하세요.
+
+docs/sample-images.md  
+docs/sample-images-ko.md
+
 ---
 
 ## 프로젝트 목적
