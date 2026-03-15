@@ -1,0 +1,24 @@
+{
+  "images": [
+    { "id": 1, "file_name": "image_001.jpg", "width": 640, "height": 480 },
+    { "id": 2, "file_name": "image_002.jpg", "width": 640, "height": 480 },
+    { "id": 3, "file_name": "image_003.jpg", "width": 640, "height": 480 },
+    { "id": 4, "file_name": "image_004.jpg", "width": 640, "height": 480 },
+    { "id": 5, "file_name": "image_005.jpg", "width": 640, "height": 480 }
+  ],
+  "annotations": [
+    { "id": 100, "image_id": 1, "category_id": 1, "bbox": [50, 60, 120, 150] },
+    { "id": 101, "image_id": 1, "category_id": 2, "bbox": [200, 100, 80, 90] },
+    { "id": 102, "image_id": 2, "category_id": 3, "bbox": [10, 20, 50, 60] },
+    { "id": 103, "image_id": 99, "category_id": 1, "bbox": [30, 40, 70, 80] },
+    { "id": 104, "image_id": 2, "category_id": 999, "bbox": [15, 15, 40, 40] },
+    { "id": 105, "image_id": 3, "category_id": 2, "bbox": [100, 100, -20, 50] },
+    { "id": 106, "image_id": 3, "category_id": 1, "bbox": [600, 450, 100, 50] },
+    { "id": 106, "image_id": 2, "category_id": 1, "bbox": [50, 50, 40, 40] }
+  ],
+  "categories": [
+    { "id": 1, "name": "person" },
+    { "id": 2, "name": "car" },
+    { "id": 3, "name": "dog" }
+  ]
+}
