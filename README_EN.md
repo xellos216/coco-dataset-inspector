@@ -56,7 +56,7 @@ Bounding box checks
 
 ```
 
-coco-dataset-inspector/
+cv-coco-dataset-inspector/
 │
 ├── analyzers/
 │   └── dataset_stats.py

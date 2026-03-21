@@ -59,7 +59,7 @@ annotation 오류, 이미지 누락, 잘못된 bounding box 등과 같은 일반
 
 ```
 
-coco-dataset-inspector/
+cv-coco-dataset-inspector/
 │
 ├── analyzers/
 │   └── dataset_stats.py
